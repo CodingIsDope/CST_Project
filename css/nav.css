@@ -16,12 +16,12 @@ nav a{
     color:black;
 }
 nav a:hover{
-    color:#f84258;
+    color:#26d7ff;
     text-decoration: none;
 
 }
 #login{
-    color:#f84258;
+    color:#26d7ff;
 }
 .logo h3{
     font-family: 'Sacramento', cursive;
@@ -30,10 +30,10 @@ nav a:hover{
     font-size:45px;
 }
 .logo-name{
-     color:#f84258;
+     color:#26d7ff;
 }
 .logo-name:hover{
-    color:#f84258;
+    color:#26d7ff;
     text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ nav a:hover{
     font-family: 'Montserrat', sans-serif;
 }
 .burger div{
-    background-color:#f84258;
+    background-color:#26d7ff;
     width:25px;
     height:3px;
     margin:5px;

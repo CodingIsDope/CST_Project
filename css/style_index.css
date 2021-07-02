@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Sacramento&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Codystar|Josefin+Slab&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+</style>
 *{
     margin:0;
     padding:0;
@@ -11,7 +13,8 @@ a {
     }
 
 body{
-    font-family: 'Montserrat', sans-serif;
+    
+	font-family: 'Zen Tokyo Zoo', cursive;
 }
 img{
     max-width: 100%;
@@ -68,7 +71,7 @@ img{
 .info-of-img-below{
     text-align:center;
     color:#ffffff;
-    background-color: #f84258; 
+    background-color: #26d7ff; 
     height:30px;
     padding-top:5px;
 }
@@ -168,11 +171,11 @@ img{
 .copy-right{
     font-family: 'Sacramento', cursive;
     text-align: center;
-    color:#f84258; 
+    color:#26d7ff; 
     font-size:27px;
 }
 .copy-right a{
-    color:#f84258; 
+    color:#26d7ff; 
 }
 @media  screen and (max-width:593px){
     .footer-container .footer-1 h2,p,h5,h6{
